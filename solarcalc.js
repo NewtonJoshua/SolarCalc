@@ -6,14 +6,11 @@
   var test = function () {
     return 'test';
   }
-  
-  // The SolarCalc object that contains all the functions and objects
-  var SolarCalc = {
+
+  // Expose SolarCalc as a global object
+  SolarCalc = {
     test: test
   };
-  
-  // Expose SolarCalc as a global object
-  SolarCalc = SolarCalc;
 
   // Export the SolarCalc object for **Node.js**, with
   // backwards-compatibility for their old module API. If we're in
