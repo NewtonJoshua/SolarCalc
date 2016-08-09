@@ -1,0 +1,23 @@
+{
+  "name": "solarcalc",
+  "version": "1.0.0",
+  "description": "Find Sunrise, Sunset, Solar Noon and Solar Position for Any Place on Earth.",
+  "main": "solarcalc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NewtonJoshua/SolarCalc/"
+  },
+  "keywords": [
+    "sunrise",
+    "sunset",
+    "solar",
+    "position",
+    "time",
+    "sabbath"
+  ],
+  "author": "Newton Joshua (http://NewtonJoshua.com) <nejo@newtonjoshua.com>",
+  "license": "GPL-3.0"
+}
