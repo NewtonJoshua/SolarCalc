@@ -654,7 +654,7 @@ Also add information on how to contact you by electronic and paper mail.
   If the program does terminal interaction, make it output a short
 notice like this when it starts in an interactive mode:
 
-    <program>  Copyright (C) 2016 Newton Joshua, http://NewtonJoshua.com <nejo@newtonjoshua.com>
+    SolarCalc  Copyright (C) 2016 Newton Joshua, http://NewtonJoshua.com <nejo@newtonjoshua.com>
     This program comes with ABSOLUTELY NO WARRANTY; for details type 'show w'.
     This is free software, and you are welcome to redistribute it
     under certain conditions; type 'show c' for details.
