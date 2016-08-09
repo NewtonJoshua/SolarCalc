@@ -21,11 +21,4 @@
     "Newton Joshua (http://NewtonJoshua.com) <nejo@newtonjoshua.com>"
   ],
   "license": "GNU General Public License v3.0",
-  "homepage": "http://solarcalc.newtonjoshua.com",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+  "homepage": "http://solarcalc.newtonjoshua.com"
