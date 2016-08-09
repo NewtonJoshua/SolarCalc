@@ -1,5 +1,4 @@
 [![Build Status](https://travis-ci.org/NewtonJoshua/SolarCalc.png)](https://travis-ci.org/NewtonJoshua/SolarCalc)
-
 [![Coverage Status](https://coveralls.io/repos/github/NewtonJoshua/SolarCalc/badge.svg?branch=master)](https://coveralls.io/github/NewtonJoshua/SolarCalc?branch=master)
 
 # SolarCalc-bower
