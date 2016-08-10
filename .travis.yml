@@ -1,14 +1,14 @@
-"language": "node_js",
-  "node_js": "node",
-  "sudo": false,
-  "before_script": [
-    "npm install -g grunt-cli"
-  ],
-  "script": "grunt build:travis",
-  "git": {
-    "depth": 10
-  },
-  "global_env": null,
-  "group": "stable",
-  "dist": "precise",
-  "os": "linux"
+ language: node_js,
+            node_js: node,
+            sudo: false,
+            before_script: [
+            npm install -g grunt-cli
+        ],
+            script: grunt build:travis,
+            git: {
+            depth: 10
+        },
+        global_env: null,
+            group: stable,
+            dist: precise,
+            os: linux
